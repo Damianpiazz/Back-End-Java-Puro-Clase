@@ -1,0 +1,10 @@
+src/
+ └── org/example/c8
+      ├── productos/
+      │    ├── Producto.java
+      │    ├── Bebida.java
+      │    └── Comida.java
+      ├── excepciones/
+      │    ├── ProductoNoEncontradoException.java
+      │    └── StockInsuficienteException.java
+      └── Main.java
