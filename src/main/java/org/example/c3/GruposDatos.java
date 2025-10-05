@@ -1,6 +1,6 @@
-package org.example.clase_3;
+package org.example.c3;
 
-public class Grupos_de_datos {
+public class GruposDatos {
     public static void main(String[] args) {
         String textoEjemplo = "Mensaje en formato String 123";
         int indiceBusqueda = textoEjemplo.indexOf("formato");

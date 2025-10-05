@@ -1,4 +1,4 @@
-package org.example.clase_3;
+package org.example.c3;
 
 import java.util.ArrayList;
 import java.util.Arrays;

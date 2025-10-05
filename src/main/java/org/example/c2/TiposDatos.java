@@ -1,6 +1,6 @@
-package org.example.clase_2;
+package org.example.c2;
 
-public class Tipos_de_datos {
+public class TiposDatos {
     public static void main(String[] args) {
         // TIPOS DE DATOS
         // Numeros Enteros

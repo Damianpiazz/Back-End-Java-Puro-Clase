@@ -1,8 +1,8 @@
-package org.example.clase_3;
+package org.example.c3;
 
 import java.util.ArrayList;
 
-public class Ejercicio_clase_3 {
+public class Ejercicio {
 
     // Metodo para formatear cadenas (Title Case)
     public static String formatearNombreProducto(String nombre) {

@@ -1,10 +1,10 @@
-package org.example.clase_3;
+package org.example.c3;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.stream.Collectors;
 
-public class Bucles_y_Listas {
+public class BuclesYListas {
     public static void main(String[] args) {
         String nombre = "talento tech";
 
