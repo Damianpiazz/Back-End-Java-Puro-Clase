@@ -1,19 +1,21 @@
-package org.example.clase_1;
+package org.example.clase_2;
 
-public class tipos_de_datos {
-    // TIPOS DE DATOS
-    // Numeros Enteros
-    int edad = 12;
-    long edadTierra = 1983745L;
+public class Tipos_de_datos {
+    public static void main(String[] args) {
+        // TIPOS DE DATOS
+        // Numeros Enteros
+        int edad = 12;
+        long edadTierra = 1983745L;
 
-    // Numeros con Decimales
-    float dinero = 123.3f;
-    double masDinero = 123.45;
+        // Numeros con Decimales
+        float dinero = 123.3f;
+        double masDinero = 123.45;
 
-    // Texto
-    String nombre = "damian";
-    char arroba = '@';
+        // Texto
+        String nombre = "damian";
+        char arroba = '@';
 
-    // Booleanos
-    boolean flag = true;
+        // Booleanos
+        boolean flag = true;
+    }
 }
