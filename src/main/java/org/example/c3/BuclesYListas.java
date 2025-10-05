@@ -14,7 +14,7 @@ public class BuclesYListas {
         ArrayList<String> letras = new ArrayList<>(); // {}
         // Transformacion para que los datos sean compatibles
         letras.addAll(Arrays.stream(letrasArray).toList());
-        letras.addAll(Arrays.stream(letrasArray).collect(Collectors.toCollection(Collectors.toList())));
+        //letras.addAll(Arrays.stream(letrasArray).collect(Collectors.toCollection(Collectors.toList())));
 
 
         // Bucle para String
