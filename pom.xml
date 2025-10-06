@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>Back-End-Java-Clase</artifactId>
+    <artifactId>Back-End-Java-Puro-Clase</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
